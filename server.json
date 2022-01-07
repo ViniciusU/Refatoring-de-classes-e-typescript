@@ -15,14 +15,6 @@
       "description": "Prato feito exclusivo para mariana, portando só peça se você for mariana farias da silva",
       "available": true,
       "id": 3
-    },
-    {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "name": "Honestão",
-      "price": "20",
-      "description": "Tudo que tinha dentro da geladeira",
-      "available": true,
-      "id": 4
     }
   ]
 }
